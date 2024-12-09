@@ -36,6 +36,7 @@ opsi 1:
 
 opsi 2:
 [Gambar 1](screenshot/pas10.png)
+
 jika tidak ada:
 [Gambar 1](screenshot/pas9.png)
 
