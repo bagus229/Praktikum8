@@ -32,25 +32,25 @@ Jika pilihan tidak valid, tampilkan pesan kesalahan.
 
 ### Hasil eksekusi
 opsi 1:
-[Gambar 1](screenshot/pas8.png)
+![Gambar 1](screenshot/pas8.png)
 
 opsi 2:
-[Gambar 1](screenshot/pas10.png)
+![Gambar 1](screenshot/pas10.png)
 
 jika tidak ada:
-[Gambar 1](screenshot/pas9.png)
+![Gambar 1](screenshot/pas9.png)
 
 opsi 3:
-[Gambar 1](screenshot/pas11.png)
+![Gambar 1](screenshot/pas11.png)
 
 opsi 4:
-[Gambar 1](screenshot/pas12.png)
+![Gambar 1](screenshot/pas12.png)
 
 opsi 5:
-[Gambar 1](screenshot/pas13.png)
+![Gambar 1](screenshot/pas13.png)
 
 ## Diagram class
-[Gambar 1](screenshot/pas7.png)
+![Gambar 1](screenshot/pas7.png)
 
 ## Flowchart
 ### Langkah 1
